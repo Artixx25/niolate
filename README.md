@@ -1,2 +1,2 @@
 #Noilate app
-<img src="./prev-nio.png" alt="desc-photo">
+<img src="./prev-nio.jpg" alt="desc-photo">
